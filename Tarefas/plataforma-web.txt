@@ -1,0 +1,109 @@
+- Criação das migrations
+	- Criar migration para a tabela de Endereços
+	- Criar migration para a tabela de Empresas
+	- Criar migration para a tabela de Usuários
+	- Criar migration para a tabela de Feedbacks
+	- Criar migration para a tabela de Requisições
+	- Criar migration para a tabela de Local Requisitado
+	- Criar migration para a tabela de Origem do Usuário
+	- Criar migration para a tabela de Idas dos ônibus
+	- Criar migration para a tabela de Voltas dos ônibus
+	- Criar migration para a tabela de Ônibus
+	- Criar migration para a tabela de Rotas
+	- Criar migration para a tabela de Itinerários
+	- Revisar as migrations criadas
+	- Implementar código de roll back para as migrations
+- Criação das factories
+	- Criar factory para a tabela de Endereços
+	- Criar factory para a tabela de Empresas
+	- Criar factory para a tabela de Usuários
+	- Criar factory para a tabela de Feedbacks
+	- Criar factory para a tabela de Requisições
+	- Criar factory para a tabela de Local Requisitado
+	- Criar factory para a tabela de Origem do Usuário
+	- Criar factory para a tabela de Idas dos ônibus
+	- Criar factory para a tabela de Voltas dos ônibus
+	- Criar factory para a tabela de Ônibus
+	- Criar factory para a tabela de Rotas
+	- Criar factory para a tabela de Itinerários
+	- Gerar 50 dados de cada factory
+	- Seedar banco de dados
+- Configuração da validação de dados
+	- Criar validação de dados para inserções das tabelas
+	- Criar validação de dados para atualizações das tabelas
+	- Configurar validação de inserção de dados para todas as tabelas
+	- Configurar validação de atualização de dados para todas as tabelas
+- Criação dos modelos do sistema
+	- Criar o model para cada tabela do banco de dados
+	- Configurar nome das tabelas nos models
+	- Estabelecer a insistência o campo timestamp dos models
+	- Estabelecer relação entre os models
+	- Listar dados que serão daquele model
+- Criação das rotas
+	- Criar rota de Home
+	- Criar rota de Login e Cadastro
+	- Criar rota de Visualização de ônibus
+	- Criar rota de Visualização de Itinerários
+	- Criar rota de Painel de controle
+	- Agrupar rotas por controlador ou resource
+	- Nomear rotas adequadamente
+	- Aplicar middlewares nas rotas que precisam
+- Criação dos controladores
+	- Criar métodos padrões dos controlares que precisam
+	- Identificar necessidade de métodos padrões nos controladores
+	- Identificar métodos necessários e listar aqui
+	- Criar métodos necessários
+	- Implementar métodos necessários
+- Definição dos requisitos de design
+	- Identificar público alvo
+	- Escolher cores e fontes
+	- Escolher estrutura do website
+- Criação dos componentes
+	- Criar navbar
+	- Criar footer
+	- Criar formulário
+	- Criar botão
+- Criação das views
+	- Criar layout padrão para as views
+	- Aplicar layout nas views
+	- Criar view de Home
+	- Criar view de Login e Cadastro
+	- Criar view de Visualização de ônibus
+	- Criar view de Visualização de Itinerários
+	- Criar view de Painel de controle
+	- Implementar componentes no layout (caso haja algum)
+- Realizar testes unitários
+	- Testar cada método do sistema
+- Definição dos gráficos e tabelas
+	- Escolher quais gráficos serão usados
+	- Escolher quais tabelas serão usadas
+	- Listar componentes que serõa usados
+	- Entender o funcionamento e necessidade de cada componente.
+- Inserção de dados reais
+	- Trocar dados de teste por dados reias
+	- Corretamente inserir novos dados e dar fresh no banco de dados
+	- Executar testes e listar problemas encontrados pós troca de dados
+- Revisão do código
+	- Revisar lógica aplicada
+	- Revisar comentários escritos no código
+	- Revisar implementação das views
+	- Revisar banco de dados
+	- Revisar resultado de queries e validações de dados
+- Implementação das views
+	- Implementar parte funcional das views
+	- Aplicar CSS custom nas views
+	- Organizar estrutura seguindo o padrão Bootstrap
+	- Aplicar CSS nativo do Bootstrap nas views
+- Implementação dos componentes
+	- Implementar funcionalidades dos componentes
+	- Aplicar CSS customizado nos componentes se necessário
+- Implementação dos gráficos do painel de controle
+	- Tratar envio de dados para os gráficos e tabelas
+	- Implementar funcionalidades de inserção ou atualização de tabelas
+	- Implementar filtragem de dados dos gráficos e tabelas
+	- Implementar mostra dos dados nos gráficos
+- Realizar testes com dados reais
+	- Documentar resultados dos testes
+	- Avaliar os testes feitos
+	- Concertar possíveis problemas encontrados durante os testes feitos
+- Criar testes automatizados

@@ -1,0 +1,28 @@
+- Reunião 02
+- Termo de abertura
+- Escolher fontes e cores
+- Criar wireframes para o manual
+- Estruturar o layout do manual
+- Definir estrutura das informações
+- Revisar manual
+- Coletar imagens e vídeos que serão usados no manual
+- Redigir versão 1 do manual
+    - Texto de introdução do sistema para os usuarios
+    - Texto de introdução do sistema para as empresas
+    - Criar layout da tela padrão
+- Texto de introdução do sistema para os usuarios
+- Texto de introdução do sistema para as empresas
+- Criar layout da tela padrão
+- Implementar funcionalidades especificas do manual
+- Identificar e corrigir problemas
+- Executar testes de usabilidade
+- Reunião 01
+    - Definir Objetivos do manual
+- Definir Objetivos do manual
+- Redigir manual escrito
+- Criação do repositório do GitHub
+- Criar arquivo CSS customizado com nossa paleta de cores
+- Definir telas do manual de usuários
+    - Definir informações que serão mostradas em cada tela
+- Definir telas do manual de empresas
+    - Definir informações que serão mostradas em cada tela

@@ -1,0 +1,59 @@
+- Planejamento inicial
+	- Coletar todos os documentos já redigidos
+	- SubSub tarefa
+	- Listar documentos desatualizados
+	- Atualizar documentos desatualizados
+	- Definir horários e responsáveis por tarefa
+	- Adicionar mais tarefas caso necessário
+- Divisão da equipe
+	- Divisão do grupo em duas equipes
+	- Separar tarefas para cada equipe/pessoa 01
+- Criação do repositório no Github
+	- Criar repositório no Github
+	- Definir repositório como privado
+	- Convidar participantes para o repositório
+	- Definir regras de acesso do repositório
+	- Configurar .gitignore
+	- Adicionar README
+- Parte escrita
+	- Encontrar template pra parte escrita
+	- Pesquisar exemplos de escritas TCC
+	- Redigir Introdução
+	- Adicionar referencias que justificam as ideias da introdução
+	- Redigir Objetivos do trabalho
+	- Adicionar referencias que justificam as ideias do objetivo do trabalho
+	- Redigir Visão do sistema
+	- Descrever planejamento tecnologias e objetivos da plataforma ou sistema
+	- Escrever campo para citar informações relevantes
+	- Começar banco de dados, explicar o proposito do banco para o sistema e abstração feita
+	- Escrever campo para citar informações relevantes
+	- Redigir Justificativa
+	- Listar todas as referências seguindo a norma ABNT
+	- Redigir Análise dos resultados
+	- Redigir Conclusão
+- Apresentação mundo SENAI
+	- Preparar slide
+	- Preparar roteiro
+- Slide de apresentação
+	- Estruturar ordem das informações
+	- Listar informações que serão usadas no Slide
+	- Pesquisar dicas e exemplos de inspiração
+	- Escolher fontes e cores
+	- Escolher elementos gráficos que serão usados nos slides
+	- Revisar e refatorar slide
+- Preparação para apresentação
+	- Criar roteiro de apresentação
+	- Garantir que todos estão em sintonia com o assunto 
+	- Usar IA para criar perguntas sobre nosso TCC
+	- Estudar perguntas feitas pela IA e o assunto do TCC
+	- Dividir "falas"
+- Revisão geral
+	- Revisar código do sistema
+	- Revisar slide de apresentação
+	- Revisar parte escrita
+	- Revisar manual do usuário
+	- Realizar testes no sistema
+	- Fazer um test-drive do funcionamento do sistema
+	- Corrigir bugs que podem aparecer
+	- Revisar conhecimento da equipe no assunto
+	- Realizar uma roda de conversa sobre o TCC (Isso foi um baita aventura, não foi?)
